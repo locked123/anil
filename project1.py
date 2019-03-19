@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar  6 22:37:04 2019
 
-@author: bir bdr thapa
-"""
 """
 import datetime as dt
 import matplotlib.pyplot as plt
